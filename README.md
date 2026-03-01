@@ -17,7 +17,7 @@ Users can browse movie details and manage their favorite movies using React Cont
 🛠 Tech Stack
 React (Functional Components + Hooks)
 Context API (State Management)
-Fetch API / Axios (Data Fetching)
+Fetch API (Data Fetching)
 CSS Grid (Responsive Layout)
 🌐 API Used
 Data provided by The Movie Database (TMDB) API.
